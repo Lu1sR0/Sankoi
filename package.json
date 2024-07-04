@@ -10,5 +10,17 @@
   },
   "devDependencies": {
     "vite": "^5.3.1"
-  }
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14"
+  },
+  "description": "��#\u0000 \u0000S\u0000a\u0000n\u0000k\u0000o\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
